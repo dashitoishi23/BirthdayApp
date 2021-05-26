@@ -29,7 +29,7 @@ export default() =>{
             </div>
             <div className='message-body'>
                 <div className='right-message' id='1'>
-                    <p className='message'>Heyaa, Happy Birthday Koumi!!! Eeeeeee</p>
+                    <p className='message'>Heyaa, Happy Birthday 2021, Koumi!!! Eeeeeee</p>
                     <p className='time'>00:00</p>
                 </div>
                 <div className="left-message" id="2">
